@@ -7,4 +7,4 @@
 5. GitBash (wading back into line command . . . and Linux, for that matter)
 6. GitHub (no longer just a lurker!)
 
-**and I'm sure there are more**
+**And I'm sure there are more!**
